@@ -14,7 +14,7 @@
 			<key>comment</key>
 			<string>Keywords</string>
 			<key>match</key>
-			<string>(Sub)?Shader|Category|Properties|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return|Test</string>
+			<string>(Sub)?Shader|Category|Properties|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return</string>
 			<key>name</key>
 			<string>keyword.source.unity_shader</string>
 		</dict>
@@ -124,6 +124,6 @@
 	<key>scopeName</key>
 	<string>source.unity_shader</string>
 	<key>uuid</key>
-	<string>e3872ec7-60d7-4cc2-bf8f-57da56c339f2</string>
+	<string>aeceb906-05c6-4ef3-abe4-16cca3b8f33c</string>
 </dict>
 </plist>

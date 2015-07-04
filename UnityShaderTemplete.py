@@ -187,10 +187,8 @@ class UnityShaderTempleteListener(sublime_plugin.EventListener):
 		start_index = -1
 		end_index = -1
 		for line in lines:
-			# print(len(line))
 			typeIndex = line.find(':')
 			lineType = line[0:typeIndex]
-			# print(lineType)
 
 			if lineType == '// @Last change by':
 				end_index = start_index + len(line) + 1
@@ -209,31 +207,5 @@ class UnityShaderTempleteListener(sublime_plugin.EventListener):
 			else:
 				lineLen = len(line) + 1
 				start_index = start_index + lineLen 
-
-
-		# 	search = regex.search(line)
-		# 	if search is not None:
-		# 		var = search.group()
-  #               index = line.find(var)
-
-  #               for i in range(index - 1, 0, -1):
-  #                   if line[i] != ' ':
-  #                       space_start = i + 1
-  #                       print(space_start)
-  #                       break
-                        
-			# typeIndex = line.find(':')
-			# lineType = line[0:typeIndex]
-			# print(line)
-			# line.replace('// @Last change by:*apple on *2015-06-07 18:24:23', '123')
-
-		# lastChangeStr = lines[3]
-		# changeTimeIndex = lastChangeStr.index('*')
-		# test = lastChangeStr.replace('Last', '122')
-		# print(lastChangeStr)
-		# print(test)
-
-		# view.run_command('unity_shader_templete_head_replace', {'a': 18, 'b': 20, 'strings': '123'})
-
 	def on_post_save(self, view):
 		pass

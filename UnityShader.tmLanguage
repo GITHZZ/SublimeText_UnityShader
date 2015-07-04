@@ -7,77 +7,123 @@
 		<string>shader</string>
 	</array>
 	<key>name</key>
-	<string>UnityShader</string>
+	<string>Unity Shader</string>
 	<key>patterns</key>
 	<array>
 		<dict>
 			<key>comment</key>
-			<string>keywords</string>
+			<string>Keywords</string>
 			<key>match</key>
-			<string>(Sub)*Shader|Category|Properties|FallBack|Tags|LOD|CGPROGRAM|ENDCG|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass</string>
+			<string>(Sub)?Shader|Category|Properties|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return|Test</string>
 			<key>name</key>
-			<string>keyword.source.shader</string>
+			<string>keyword.source.unity_shader</string>
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>comment</string>
+			<string>Comment</string>
 			<key>match</key>
 			<string>//.*$</string>
 			<key>name</key>
-			<string>comment.source.shader</string>
+			<string>comment.source.unity_shader</string>
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>type</string>
+			<string>Types</string>
 			<key>match</key>
-			<string>(?&lt;=[, \s\(\)])(((float|half|fixed)[2-4]?)|SurfaceOutput|bool|Range\([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+),[-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)\)|sampler(CUBE|[23]D)|void|2D|Color|struct)(?=[,\s\(\)])</string>
+			<string>(?&lt;=[, \s\(\)])(((float|half|fixed)[2-4]?)|SurfaceOutput|bool|sampler(CUBE|[23]D)|void|2D|Color|struct|[Ff]loat)(?=[,\s\(\)])</string>
 			<key>name</key>
-			<string>storage.type.source.shader</string>
+			<string>storage.type.source.unity_shader</string>
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>string literal</string>
+			<string>String</string>
 			<key>match</key>
-			<string>"[^"]+"</string>
+			<string>\"[^\"]*\"</string>
 			<key>name</key>
-			<string>constant.string.source.shader</string>
+			<string>string.quoted.double.source.unity_shader</string>
 		</dict>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>meta.preprocessor.source.unity_shader</string>
+				</dict>
+				<key>2</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.control.preprocessor.source.unity_shader</string>
+				</dict>
+			</dict>
 			<key>comment</key>
 			<string>compiler directive</string>
 			<key>match</key>
-			<string>^\s*#(pragma|include|ifdef|endif).*$</string>
+			<string>(#)(pragma|include|ifdef|endif|if|define).*</string>
 			<key>name</key>
-			<string>string.meta.source.shader</string>
+			<string>meta.preprocessor.source.unity_shader</string>
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>storage modifier</string>
+			<string>functions</string>
 			<key>match</key>
-			<string>\s*(inout)\s*</string>
+			<string>(length|cross|pow|tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|SetTexture|combine|UnityPixelSnap)</string>
 			<key>name</key>
-			<string>storage.modifier.source.shader</string>
+			<string>support.function.any-method.unity_shader</string>
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>function</string>
+			<string>number literals</string>
 			<key>match</key>
-			<string>tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|SetTexture|combine</string>
+			<string>\b([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[\s]*,[\s]*)*([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[fF]?)+\b</string>
 			<key>name</key>
-			<string>constant.source.shader</string>
+			<string>constant.numeric.source.unity_shader</string>
 		</dict>
 		<dict>
+			<key>begin</key>
+			<string>(CGPROGRAM)</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.source.unity_shader</string>
+				</dict>
+			</dict>
 			<key>comment</key>
-			<string>float literal</string>
-			<key>match</key>
-			<string>[,\s]+[\(]?([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[\s]*,[\s]*)*([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+))+[\)]?[,\s]+</string>
+			<string>CGPROGRAM -- ENDCG</string>
+			<key>end</key>
+			<string>(ENDCG)</string>
+			<key>endCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.source.unity_shader</string>
+				</dict>
+			</dict>
 			<key>name</key>
-			<string>constant.numeric.source.shader</string>
+			<string>cgprogram.source.unity_shader</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>include</key>
+					<string>source.c</string>
+				</dict>
+				<dict>
+					<key>include</key>
+					<string>$self</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>.</string>
+				</dict>
+			</array>
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.shader</string>
+	<string>source.unity_shader</string>
 	<key>uuid</key>
-	<string>813f15c8-79fd-4617-8afe-2495dffbf4e8</string>
+	<string>e3872ec7-60d7-4cc2-bf8f-57da56c339f2</string>
 </dict>
 </plist>

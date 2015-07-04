@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sys",
+				"System"
+			],
+			[
+				"L",
+				"Log"
+			],
+			[
+				"impo",
+				"importantData"
+			],
+			[
+				"Log",
+				"LogFormat"
+			],
+			[
+				"surf",
+				"SurfaceOutput"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"Gra",
+				"Graphics"
+			],
+			[
+				"Fil",
+				"FilterMode"
+			],
+			[
+				"fil",
+				"FilterMode"
+			],
+			[
+				"Render",
+				"RenderTexture"
+			],
+			[
+				"Ma",
+				"Material"
+			],
+			[
+				"_Sp",
+				"_SpecPower"
+			],
+			[
+				"floa",
+				"float3"
+			],
+			[
+				"_S",
+				"_SpecPower"
+			],
+			[
+				"nor",
+				"normalize"
+			],
+			[
+				"fixe",
+				"fixed4"
+			],
+			[
+				"_Main",
+				"_MainTint"
+			],
+			[
+				"fl",
+				"float4"
+			],
+			[
+				"Ap",
+				"Alpha"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"A",
+				"Albedo"
+			],
+			[
+				"In",
+				"IN"
+			],
+			[
+				"_out",
+				"_outBlack"
+			],
+			[
+				"_in",
+				"_inBlack"
+			],
+			[
+				"pix",
+				"pixelResult"
+			],
+			[
+				"_sl",
+				"_SpecColor"
+			],
+			[
+				"ha",
+				"half4"
+			],
+			[
+				"fix",
+				"fixed2"
+			],
+			[
+				"_Sc",
+				"_ScrollXSpeed"
+			],
+			[
+				"fi",
+				"fixed4"
+			],
+			[
+				"_MainT",
+				"_MainTex"
+			],
+			[
+				"diff",
+				"diffuse"
+			],
+			[
+				"float",
+				"float4"
+			],
+			[
+				"Al",
+				"Albedo"
+			],
+			[
+				"ver",
+				"vert"
+			],
+			[
+				"norm",
+				"normal"
+			],
+			[
+				"IN",
+				"Input"
+			],
+			[
+				"hal",
+				"half3"
+			],
+			[
+				"half",
+				"half4"
+			],
+			[
+				"Re",
+				"Range	RangeProperty"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"Debug",
+				"Debug.Log(message)"
+			],
+			[
+				"samp",
+				"sampler2D"
+			],
+			[
+				"Ran",
+				"Range	RangeProperty"
+			],
+			[
+				"ve",
+				"Vector3"
+			],
+			[
+				"tran",
+				"Transform.rotation"
+			],
+			[
+				"tex",
+				"tex2D"
+			],
+			[
+				"in",
+				"inout"
+			],
+			[
+				"suf",
+				"surface"
+			],
+			[
+				"Sha",
+				"Shader	BasicShader"
+			],
+			[
+				"set",
+				"set_syntax"
+			],
+			[
+				"crea",
+				"create_tab"
+			],
+			[
+				"sam",
+				"sampler2D"
+			],
+			[
+				"sur",
+				"surf	SurfFunction"
+			],
+			[
+				"Sub",
+				"SubShader"
+			],
+			[
+				"Tag",
+				"TagsOpaque	RenderType-Qpaque"
+			],
+			[
+				"T",
+				"Texture	TextureProperty"
+			],
+			[
+				"sap",
+				"sampler2D"
+			],
+			[
+				"_",
+				"_${1"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"Q",
+				"Quaternion.identity"
+			],
+			[
+				"game",
+				"gameObject"
+			],
+			[
+				"map",
+				"mapPrefab"
+			],
+			[
+				"Resour",
+				"Resources.Load(path)"
+			],
+			[
+				"ctr",
+				"ctrl+y"
+			],
+			[
+				"cube",
+				"cubeBody"
+			],
+			[
+				"GetCo",
+				"Component.GetComponent(type)"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"mousePos",
+				"Input.mousePosition"
+			],
+			[
+				"Ve",
+				"Vector3"
+			],
+			[
+				"GetMou",
+				"Input.GetMouseButtonDown(button)"
+			],
+			[
+				"Sort",
+				"SortingLayer"
+			],
+			[
+				"Seria",
+				"Serializable"
+			],
+			[
+				"Hid",
+				"HideInInspector"
+			],
+			[
+				"Fin",
+				"FindProperty"
+			],
+			[
+				"Ser",
+				"SerializedProperty"
+			],
+			[
+				"coun",
+				"countGO"
+			],
+			[
+				"Ga",
+				"GameObject"
+			],
+			[
+				"De",
+				"Debug.Log(message)"
+			],
+			[
+				"mou",
+				"mouseAngle"
+			],
+			[
+				"tar",
+				"targetAngle"
+			],
+			[
+				"mouseD",
+				"mouseDir"
+			],
+			[
+				"mouseDi",
+				"mouseDist"
+			],
+			[
+				"Debu",
+				"Debug.Log(message)"
+			],
+			[
+				"cam",
+				"camPos"
+			],
+			[
+				"Tags",
+				"TagsOpaque	标签Qpaque"
+			],
+			[
+				"Ta",
+				"Tags"
+			],
+			[
+				"s",
+				"sampler2D"
+			],
+			[
+				"GetCom",
+				"GameObject.GetComponents(type)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"create",
+				"Shader Templete Create"
+			],
+			[
+				"insert",
+				"Unity Reference: Search from Input"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in s",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 505.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/UnityShader.sublime-project",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/test.shader",
+		"/Users/apple/Documents/unity/IL2CPPTest/Assets/HelloIL2CPP.cs",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/_MKGlowSystem/_Shader/_MKGlowEffect/MKGlowFastBlur.shader",
+		"/Users/apple/Documents/unity/IL2CPPTest/IL2CPPTest.sublime-project",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D/UnityC#.tmLanguage",
+		"/Users/apple/Documents/unity/IL2CPPTest/Assets/IL2CPPTest.sublime-project",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/templates/head/shader.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/UnityShaderTemplete.pyc",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/templates/body/basic.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/test",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/header/C#.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/FileHeader.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/UnityShader.tmLanguage",
+		"/Users/apple/Documents/unity/QueryChan/Assets/OpenUseMono/OpenUseMono.cs",
+		"/Users/apple/Documents/unity/QueryChan/Assets/Scripts/PixelChange.cs",
+		"/Users/apple/Documents/unity/QueryChan/Assets/OpenUseMono/OpenUseMonoEditor.cs",
+		"/Users/apple/Documents/unity/QueryChan/Assets/PQAssets/Query-Chan-SD/Scripts/GUIController/GUIControllerSD.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/apple/Downloads/md5.lua",
+		"/Applications/Unity/Unity.app/Contents/CGIncludes/UnityCG.cginc",
+		"/Applications/Unity/Unity.app/Contents/CGIncludes/Lighting.cginc",
+		"/Applications/Unity/Unity.app/Contents/CGIncludes/HLSLSupport.cginc",
+		"/Applications/Unity/Unity.app/Contents/CGIncludes/UnityCG.glslinc",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Script/WaterFlow.cs",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Shaders/Rivers.shader",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Shaders/PhotoshopLevels.shader",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Shaders/DepthTest/Depth1.shader",
+		"/Users/apple/Downloads/5084_Code/5084_01_Code/5084_01_Code/BasicDiffuse.shader",
+		"/Users/apple/Documents/unity/3DMathTest/Assets/Scripts/Cube.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/UnityShader.sublime-settings",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Shaders/BaseShader.shader",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Shaders/BRDFLambert.shader",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/test",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/UnityShaderTemplete.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/body/C#.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/body/Objective-C.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/header/Makefile.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/header/C.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/templates/html.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/BasicShader.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/Side Bar.sublime-menu",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Shaders/DepthTest/Depth2.shader",
+		"/Applications/Unity/Unity.app/Contents/Frameworks/Cg.framework/Headers/cg_bindlocations.h",
+		"/Users/apple/Documents/unity/ShaderExp/Assets/Script/RotateObject.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Script Reference Search/Unity3DScriptReference.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/body/C++.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/Default (OSX).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/Main.sublime-menu",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/FileHeader/template/body/C.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/templates/js.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/sublime-tmpl.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/Default (Linux).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/Default (OSX).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/Default (Windows).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/Main.sublime-menu",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/Default (Linux).sublime-keymap",
+		"/Users/apple/Documents/unity/ShaderTest/Assets/UserShader/Diffuse Simple.shader",
+		"/Users/apple/Documents/unity/ShaderTest/Assets/UserShader/ShaderTest1.shader",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/Users/apple/Documents/unity/ShaderTest/Assets/UserShader/Normal Map.shader",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/UnityShader/templates/body/shader.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity Shader/Main.sublime-menu",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity Shader/templates/head/shader.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity Shader/Default.sublime-commands",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity Shader/BasicShader.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Script Reference Search/Default.sublime-commands",
+		"/Users/apple/antwar/unity/Assets/Editor/SortingLayerEditor.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/Main.sublime-menu",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Script Reference Search/Main.sublime-menu",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/UnityShaderTemplete.py",
+		"/Users/apple/Downloads/SublimeTmpl-master/sublime-tmpl.py",
+		"/Users/apple/Downloads/SublimeTmpl-master/SublimeTmpl.sublime-settings",
+		"/Users/apple/Downloads/SublimeTmpl-master/templates/js.tmpl",
+		"/Users/apple/Downloads/SublimeTmpl-master/Default (Windows).sublime-keymap",
+		"/Users/apple/Downloads/SublimeTmpl-master/templates/python.tmpl",
+		"/Users/apple/Downloads/SublimeTmpl-master/Main.sublime-menu",
+		"/Users/apple/Downloads/SublimeTmpl-master/templates/html.tmpl",
+		"/Users/apple/Downloads/SublimeTmpl-master/templates/css.tmpl",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/Context.sublime-menu",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/Default.sublime-commands",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Script Reference Search/Context.sublime-menu",
+		"/Users/apple/antwar/unity/Assets/Editor/BuildEditor.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Client.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/UnityShaderTemplete.pyc",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/UnityShader.sublime-completions",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/TextureProperty.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/BumpmapProperty.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/SurfFunction.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/PHP/PHPDoc-class.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity Completions Light/Unity.CS.sublime-completions",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/Properties/ColorProperty.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/BasicShader.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/R/Comments.tmPreferences",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/package-metadata.json",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Prefixr/Test.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/PHP/$_SESSION[''].sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/PHP/Indentation Rules.tmPreferences",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Objective-C/Objective-C.tmLanguage",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/OCaml/Symbol List_ Classes.tmPreferences",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/OCaml/function-label.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/UnityShader.tmLanguage",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/UnityShader.tmLanguage.cache",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/UnityShader.JSON-tmLanguage",
+		"/Users/apple/Documents/unity/ARDemo/Assets/Scripts/GameController.cs",
+		"/Users/apple/antwar/unity/Assets/Script/UI/LoadingPanel.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Scene/data/BuildData.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Common/InsectPool.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Global.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Scene/unit/InsectEntity.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Scene/GameController.cs",
+		"/Users/apple/Downloads/UnityEngine/GameObject.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/JavaScript/Comments.tmPreferences",
+		"/Users/apple/antwar/unity/Assets/Script/Scene/unit/BuildEntity.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Plugins/SortingLayerExposer.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Scene/AIController.cs",
+		"/Users/apple/antwar/unity/Assets/Script/Plugins/MeshText.cs",
+		"/Users/apple/antwar/unity/Assets/Editor/TextEditor.cs",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/Properties/BumpmapProperty.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/RangeProperty.sublime-snippet",
+		"/Users/apple/Documents/unity/ShaderTest/Assets/UserShader/Texture.shader",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/TagProperty/TagsTransparent.sublime-snippet",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Unity3D Shader Highlighter and Snippets/TagProperty/TagsOpaque.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/apple/Documents/unity/ShaderTest/Assets/UserShader"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Log",
+			"Debug.Log",
+			"Log",
+			"read_content_from_file",
+			"get_setting",
+			"update_automatically",
+			"on_pre_save",
+			"clss",
+			"FileHeaderReplaceCommand",
+			"get_args",
+			"get_st3_time",
+			"get_strftime",
+			"FileHeaderListener",
+			"ratio",
+			"SurfaceOutput",
+			"_SpecularColor",
+			"_SpecColor",
+			"_LightColor0",
+			"get_body_code",
+			"startswith",
+			"start",
+			"basic",
+			"TMPL_BODY_PATH",
+			"read",
+			"SurfaceOutput",
+			"Properties",
+			"get_template_part",
+			"云网盘",
+			"get_setting",
+			"contents",
+			"render_template",
+			"get_template_part",
+			"path",
+			"BODY_PATH",
+			"set_templete_code",
+			"get_settings",
+			"TMLP_DIR",
+			"PACKAGE_NAME",
+			"PACKAGES_PATH",
+			"TARGET_PATH",
+			"IS_GTE_ST3",
+			"set_code",
+			"get_settings",
+			"format_tag",
+			"open_file",
+			"get_code",
+			"tmpl_path",
+			"PACKAGE_NAME",
+			"TMLP_DIR",
+			"PACKAGES_PATH",
+			"get_code",
+			"self",
+			"code",
+			"get_code",
+			"TMLP_DIR",
+			"get_code",
+			"PACKAGE_NAME",
+			"PACKAGES_PATH",
+			"get_code",
+			"set_code",
+			"set_syntax",
+			"set_syntax'",
+			"creat_tab",
+			"get_code",
+			"set_code",
+			"get_code",
+			"set_syntax",
+			"set_syntax_file",
+			"KEY_SYNTAX",
+			"set_syntax",
+			"get_settings",
+			"set_syntax",
+			"insert",
+			"plugin_loaded",
+			"get_code",
+			"get_settings",
+			"creat_tab",
+			"InsertSnippet",
+			"insert_snippet",
+			"tab",
+			"creat_tab",
+			"unity_reference_open_selection",
+			"unity_reference_search_selection",
+			"SearchUnityScriptReferenceFor",
+			"战前布置",
+			"InitArrow",
+			"buildList",
+			"neighorList",
+			"nearBuild",
+			"GetTargetBuild",
+			"dispatchBuild",
+			"Dispatch(",
+			"Dispatch",
+			"GetTargetBuild",
+			"Breed",
+			"totalCount",
+			"BuildEditor",
+			"SortingLayerExposer",
+			"myBuild",
+			"unity",
+			"Debug",
+			"GetTargetBuild",
+			"AngleAxis",
+			"InitJieSuan",
+			"InitArrow",
+			"GetThreatenedAlly",
+			"build`",
+			"build",
+			"AddInsectData",
+			"InitArrow",
+			"type",
+			"InitSkin",
+			"resName",
+			"toggle_comment",
+			"ExportImageButton",
+			"clp",
+			"txt_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.package_dev":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"HelloIL2CPP.cs"
+			],
+			[
+				"insect",
+				"Script/Common/InsectPool.cs"
+			],
+			[
+				"game",
+				"Script/Scene/GameController.cs"
+			],
+			[
+				"ga",
+				"Script/Scene/GameController.cs"
+			],
+			[
+				"gamecon",
+				"Script/Scene/GameController.cs"
+			],
+			[
+				"be",
+				"Behaviour.cs"
+			],
+			[
+				"mono",
+				"MonoBehaviour.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true
+}

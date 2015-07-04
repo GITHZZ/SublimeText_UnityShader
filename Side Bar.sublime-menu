@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Unity Shader",
+        "mnemonic": "f",
+        "id": "unity_reference",
+        "children":
+        [
+            {
+                "command": "unity_shader_templete_input_class_name",
+                "caption": "New File"
+            }
+        ]
+    }
+]   

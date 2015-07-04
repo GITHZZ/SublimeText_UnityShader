@@ -1,0 +1,5 @@
+[
+	{
+        "keys": ["ctrl+c"], "command": "unity_shader_templete_input_class_name"
+    }
+]

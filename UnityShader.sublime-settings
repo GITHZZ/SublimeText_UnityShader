@@ -1,0 +1,12 @@
+{
+	"date_format" : "%Y-%m-%d %H:%M:%S",
+    "attr": {
+        "author": "Your Name" ,
+        "email": "you@example.org",
+        "link": "http://example.org"
+    },
+
+    "templete_body_file": {
+    	"basic":"basic.tmpl"
+    }
+}

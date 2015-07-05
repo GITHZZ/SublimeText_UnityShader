@@ -12,6 +12,14 @@
 	<array>
 		<dict>
 			<key>comment</key>
+			<string>Unit Shader Function</string>
+			<key>match</key>
+			<string>UnityObjectToWorldDir</string>
+			<key>name</key>
+			<string>entity.name.function.source.unity_shader</string>
+		</dict>
+		<dict>
+			<key>comment</key>
 			<string>Keywords</string>
 			<key>match</key>
 			<string>(Sub)?Shader|Category|Properties|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return</string>

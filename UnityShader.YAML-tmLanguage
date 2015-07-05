@@ -1,4 +1,4 @@
-# Test[PackageDev] target_format: plist, ext: tmLanguage
+# [PackageDev] target_format: plist, ext: tmLanguage
 ---
 name: Unity Shader
 scopeName: source.unity_shader
